@@ -1,0 +1,28 @@
+- if, if-else, if-else-if, switch
+- for, while, do-while
+- break, continue, return
+    - these can have labels
+- throw, catch
+- exit
+
+
+[X] JAssignStmt
+[ ] JBreakpointStmt ??
+[ ] JEnterMonitorStmt ??
+[ ] JExitMonitorStmt ??
+[X] JGotoStmt
+[X] JIdentityStmt
+[X] JIfStmt
+[X] JInvokeStmt
+
+[X] JLookupSwitchStmt
+[X] JTableSwitchStmt
+
+[ ] JNopStmt
+
+// Return
+[X] JRetStmt
+[X] JReturnStmt
+[X] JReturnVoidStmt
+
+[ ] JThrowStmt ??
