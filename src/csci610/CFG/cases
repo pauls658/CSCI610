@@ -26,3 +26,42 @@
 [X] JReturnVoidStmt
 
 [ ] JThrowStmt ??
+
+-----Values-------
+ AbstractDataSource
+ AbstractInstanceFieldRef
+ ArithmeticConstant
+ BafLocal
+ CachedEquivalentValue
+ ClassConstant
+ Constant
+ DeadlockAvoidanceEdge
+ DInstanceFieldRef
+ DIntConstant
+ DoubleConstant
+ DShortcutIf
+ DStaticFieldRef
+ DThisRef
+ EquivalentValue
+ FakeJimpleLocal
+ FloatConstant
+ GArrayRef
+ GInstanceFieldRef
+ IntConstant
+ JArrayRef
+ JCaughtExceptionRef
+ JimpleLocal
+ JInstanceFieldRef
+ LongConstant
+ NewStaticLock
+ NullConstant
+ NumericConstant
+ ParameterRef
+ RealConstant
+ SEvaluator.BottomConstant
+ SEvaluator.MetaConstant
+ SEvaluator.TopConstant
+ StaticFieldRef
+ StringConstant
+ ThisRef
+ ValueGraph.TypeValueWrapper
